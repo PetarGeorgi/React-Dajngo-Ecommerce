@@ -1,0 +1,21 @@
+main{
+  min-height: 80vh;
+}
+
+b, strong {
+  font-weight: bolder;
+  font-size: large;
+}
+
+div.my-3{
+  font-weight: bolder;
+  font-size: large;
+}
+
+h3{
+  padding: 1rem 0;
+}
+
+.rating span{
+  margin: 0.1rem;
+}
